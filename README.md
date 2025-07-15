@@ -69,9 +69,6 @@ cd Fashion-recommendation-system
 pip install -r requirements.txt
 ```
 
-> ⚠️ **Note:** PyTorch and torchvision should match your system's CUDA or CPU version. You can install them manually if needed:  
-> https://pytorch.org/get-started/locally/
-
 ### 3. Run the App
 
 ```bash
@@ -97,9 +94,8 @@ You can use the [Fashion Product Images Dataset](https://www.kaggle.com/datasets
 
 ## 📦 To-Do / Enhancements
 
-- [ ] Add labels/tags filtering (e.g., only shoes or jackets)
-- [ ] Store precomputed features in `.npy` or MongoDB
-- [ ] Add logging and better error handling
-- [ ] Deploy on Streamlit Cloud or HuggingFace Spaces
+- Add labels/tags filtering (e.g., only shoes or jackets)
+- Store precomputed features in `.npy` or MongoDB
+- Add logging and better error handling
 
 ---
