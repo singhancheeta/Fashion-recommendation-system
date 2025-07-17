@@ -79,14 +79,6 @@ streamlit run app.py
 
 ## 🗂 Dataset Structure
 
-```text
-/fashion_dataset/
-    10000.jpg
-    10001.jpg
-    10002.jpg
-    ...
-```
-
 You can use the [Fashion Product Images Dataset](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small) or any custom dataset with images.
 ,]
 
